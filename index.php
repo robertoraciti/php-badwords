@@ -11,6 +11,7 @@
       <textarea name="message" id="" cols="40" rows="3"></textarea>
       <h3>Inserisci qui la parola da censurare</h3>
       <input type="text" name="censoredWord" id="" />
+      <br />
       <button type="submit">INVIA</button>
     </form>
   </body>
